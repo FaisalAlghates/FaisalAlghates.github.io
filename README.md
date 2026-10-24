@@ -6,7 +6,7 @@
 
 An immersive 3D portfolio built with React, Three.js and Tailwind CSS.
 
-[**🌐 Live Demo**](https://faisalalghates.github.io/) ·
+[**Live Demo**](https://faisalalghates.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/faisal-alghates/) ·
 [Email](mailto:alghatesfaisal@gmail.com)
 
@@ -14,7 +14,7 @@ An immersive 3D portfolio built with React, Three.js and Tailwind CSS.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Interactive 3D scene** — a distorted metallic core with orbiting rings, floating shapes, stars and sparkles that follow the mouse and travel across the page as you scroll
 - **Glassmorphism UI** — dark, premium design with gradient accents and film grain
@@ -23,7 +23,7 @@ An immersive 3D portfolio built with React, Three.js and Tailwind CSS.
 - **Experience timeline**, skills and contact sections
 - **Fully responsive** — mobile menu, tablet and desktop layouts, no horizontal scroll
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Area | Tools |
 | --- | --- |
@@ -33,7 +33,7 @@ An immersive 3D portfolio built with React, Three.js and Tailwind CSS.
 | Build | Vite |
 | Hosting | GitHub Pages |
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/FaisalAlghates/FaisalAlghates.github.io.git
@@ -48,11 +48,11 @@ Build for production:
 npm run build
 ```
 
-## ✏️ Customize
+## Customize
 
 All content lives in one file: [`src/data.js`](src/data.js) — profile, links, stats, experience, skills and projects. The 3D scene is in [`src/Scene.jsx`](src/Scene.jsx).
 
-## 📁 Structure
+## Structure
 
 ```
 src/
@@ -62,7 +62,7 @@ src/
 └── index.css    # Tailwind theme & custom styles
 ```
 
-## 📬 Contact
+## Contact
 
 - LinkedIn: [faisal-alghates](https://www.linkedin.com/in/faisal-alghates/)
 - GitHub: [@FaisalAlghates](https://github.com/FaisalAlghates)
